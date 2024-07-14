@@ -214,6 +214,9 @@ body:hover #cursor{
 }
 
 @media screen and (max-width: 800px) {
+    #cursor{
+        display: none;
+    }
     .main{
         grid-template-columns: 1fr;
         grid-template-rows: 75% auto; 
