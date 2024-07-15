@@ -14,9 +14,13 @@ El Encriptador de Texto es capaz de intercambiar caracteres específicos dentro 
 al utilizar la función "Encriptar" sustituye las letras vocales de la siguiente manera:
 
 e - enter
+
 i - imes
+
 o - ober
+
 a - ai
+
 u - ufat
 
 ## Cómo Utilizar el Encriptador de Texto
