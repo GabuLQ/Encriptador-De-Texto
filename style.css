@@ -71,7 +71,7 @@ body:hover #cursor{
 .main{
     padding: 2%;
     width: 80.5%;
-    margin: auto 40px auto auto;
+    margin: 40px 40px 40px auto;
     display:grid;
     grid-template-columns: 2fr 1fr;
     min-height: calc(100vh - 91px - 72px);
@@ -205,7 +205,7 @@ body:hover #cursor{
 
 .footer{
     background-color: var(--color-secundario);
-    padding: 3% 0;
+    padding: 20px;
     color: var(--color-terciario);
     text-align: center;
     font-family: var(--inter);
@@ -222,7 +222,7 @@ body:hover #cursor{
         grid-template-rows: 75% auto; 
         width: auto;
         margin: auto 40px;
-        padding-bottom: 40%;
+        padding-bottom: 20%;
     }
     .right{
         height: 85%;
