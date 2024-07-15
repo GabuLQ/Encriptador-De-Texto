@@ -136,9 +136,9 @@ body:hover #cursor{
 /*Right*/
 .right{
     background-color: var(--color-terciario);
-    height: calc(100%+48px);
+    height: 550px;
     border-radius: 32px;
-    padding: 15px;
+    padding: 20px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
